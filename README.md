@@ -49,7 +49,7 @@ A través de esta actividad los estudiantes:
 | **Bootstrap 5**        | ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)           | Framework CSS para facilitar el diseño responsive y atractivo.                               |
 | **JavaScript**| ![JS](https://img.icons8.com/color/48/javascript--v1.png)             | Se utilizará más adelante para validaciones y lógica interactiva.                            |
 | **EmailJS**            | ![EmailJS](https://img.icons8.com/fluency/48/send-mass-email.png)     | Servicio para enviar correos desde el frontend sin necesidad de backend.                     |
-| **SweetAlert2**        | ![SweetAlert2](https://avatars.githubusercontent.com/u/35137722?s=200&v=4) | Librería JS para mostrar alertas modernas, elegantes y personalizadas. |
+| **SweetAlert2**        | ![SweetAlert2]() | Librería JS para mostrar alertas modernas, elegantes y personalizadas. |
 
 
 ---
